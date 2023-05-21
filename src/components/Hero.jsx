@@ -7,7 +7,7 @@ const Hero = () => {
         <img src={logo} alt="logo" className="w-28 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("https://github.com/hanibalgirmay")}
+          onClick={() => window.open("https://github.com/hanibalgirmay/ai-generator-summarizer")}
           className="black_btn"
         >
           Github
